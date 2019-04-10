@@ -20,3 +20,9 @@ VSTS mobile tasks repo - <https://github.com/jamesmontemagno/vsts-mobile-tasks>
 1. [ADB Tips](AdbTips.md)
 
 2. [iOS terminal Tips](iOSTips.md)
+
+**Downgrading Xamarin**
+
+Find the branch name from <https://docs.microsoft.com/en-gb/xamarin/ios/release-notes/>
+1. Xamarin.iOS artifacts - <https://jenkins.mono-project.com/view/Xamarin.MaciOS/>
+2. Xamarin.Android artifacts - <https://jenkins.mono-project.com/view/Xamarin.Android/>

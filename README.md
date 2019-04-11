@@ -31,3 +31,4 @@ Find the branch name from <https://docs.microsoft.com/en-gb/xamarin/ios/release-
 1. [Android Resources](AndroidTuts.md)
 1. [iOS Resources](iOsTuts.md)
 1. [Cross platform Resources](CrossPlatform.md)
+1. [Other Misc. Resources](OtherTuts.md)

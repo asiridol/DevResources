@@ -1,1 +1,5 @@
+**iOS Tutorials**
 
+1. Core Audio: Don't Be Afraid to Play it LOUD - <http://www.slideshare.net/mobile/invalidname/core-audio-dont-be-afraid-to-play-it-loud-360idev-san-jose-2010>
+1. iPhone4Developer: Recording a voice audio in iPhone - <http://iphone4developer.blogspot.com.au/2010/12/recording-voice-audio-in-iphone.html?m=1>
+1. Encode a PCM byte array using NSpeex - <https://gist.github.com/ogazitt/3366917>

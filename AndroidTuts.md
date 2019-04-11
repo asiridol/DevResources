@@ -1,7 +1,6 @@
-**Android Tutorials
+**Android Tutorials**
 
 1. The Android Launch Mode Animated CheatSheet- <https://itnext.io/the-android-launchmode-animated-cheatsheet-6657e5dd9b0f>
-
 1. Android Audio
     1. Audio Codec ADTS headers - <https://wiki.multimedia.cx/index.php?title=ADTS>
     1. Audio Encode sample - <https://gist.github.com/wobbals/3990442>

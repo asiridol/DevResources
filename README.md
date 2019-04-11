@@ -1,5 +1,5 @@
 
-# DevResources
+# Dev Resources
 
 **Default debug keystore location**
 
@@ -26,3 +26,8 @@ VSTS mobile tasks repo - <https://github.com/jamesmontemagno/vsts-mobile-tasks>
 Find the branch name from <https://docs.microsoft.com/en-gb/xamarin/ios/release-notes/>
 1. Xamarin.iOS artifacts - <https://jenkins.mono-project.com/view/Xamarin.MaciOS/>
 2. Xamarin.Android artifacts - <https://jenkins.mono-project.com/view/Xamarin.Android/>
+
+**Misc Resources**
+1. [Android Resources](AndroidTuts.md)
+1. [iOS Resources] (iOsTuts.md)
+1. [Cross platform Resources](CrossPlatform.md)

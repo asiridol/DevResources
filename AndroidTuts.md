@@ -13,3 +13,4 @@
       * [android - PCM -> AAC (Encoder) -> PCM(Decoder) in real-time with correct optimization - Stack Overflow] (http://stackoverflow.com/questions/21804390/pcm-aac-encoder-pcmdecoder-in-real-time-with-correct-optimization)
       * [android - PCM to AAC conversion using mediacodec - Stack Overflow] (http://stackoverflow.com/questions/14934305/pcm-to-aac-conversion-using-mediacodec)
 1. Android activity manager "am" command help · GitHub - <https://gist.github.com/tsohr/5711945>
+1. Determine if running on a rooted device - Stack Overflow <https://stackoverflow.com/a/37237473>

@@ -4,3 +4,4 @@
 1. MvvmLight Github repo - <https://github.com/lbugnion/mvvmlight>
 1. Xamarin UITest Page Object Model in 10 minutes - <http://www.thetestautomator.com/xamarin-uitest-page-object-model-in-5-minutes/>
 1. URL Encoded Characters - <http://www.degraeve.com/reference/urlencoding.php>
+1. Converting Xamarin Libraries to SDK Style & Multi-Targeted Projects - <https://montemagno.com/converting-xamarin-libraries-to-sdk-style-multi-targeted-projects/>

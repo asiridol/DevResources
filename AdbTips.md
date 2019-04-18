@@ -22,6 +22,11 @@ adb shell dumpsys window windows | grep -E 'mCurrentFocus|mFocusedApp'
 
 adb -s _device_id_ shell run-as _package_name_
 
+**Copy database file in package folder of a debug app**
+adb -d shell "run-as com.example.test cat /data/data/com.example.test/databases/data.db" > data.db
+
+_Note - Sometimes it's necessary to download the temp files created by sqllite (*.db-shm, *.db-wal)_
+
 **ADB over wifi**
 Connect device via USB
 

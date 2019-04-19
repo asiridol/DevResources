@@ -4,3 +4,5 @@
 1. iPhone4Developer: Recording a voice audio in iPhone - <http://iphone4developer.blogspot.com.au/2010/12/recording-voice-audio-in-iphone.html?m=1>
 1. Encode a PCM byte array using NSpeex - <https://gist.github.com/ogazitt/3366917>
 1. How do I detect that an iOS app is running on a jailbroken phone? - Stack Overflow <https://stackoverflow.com/a/26712383>
+1. Decrypting provisioning profiles - <http://maniak-dobrii.com/extracting-stuff-from-provisioning-profile/>
+1. Repacking ipa with re-signed assemblies - <https://stackoverflow.com/a/6921689>

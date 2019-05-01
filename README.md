@@ -11,11 +11,11 @@ keytool -list -v -keystore /Users/{user_name}/.local/share/Xamarin/Mono\ for\ An
 
 **VSTS mobile tasks**
 
+VSTS mobile tasks repo - <https://github.com/jamesmontemagno/vsts-mobile-tasks>
+
 **Redths Obliterate tool**
 
 Official repo - <https://github.com/Redth/XamarinStudio.RedthsAddin>
-
-VSTS mobile tasks repo - <https://github.com/jamesmontemagno/vsts-mobile-tasks>
 
 1. [ADB Tips](AdbTips.md)
 

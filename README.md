@@ -17,6 +17,8 @@ VSTS mobile tasks repo - <https://github.com/jamesmontemagno/vsts-mobile-tasks>
 
 Official repo - <https://github.com/Redth/XamarinStudio.RedthsAddin>
 
+**Terminal Tips**
+
 1. [ADB Tips](AdbTips.md)
 
 2. [iOS terminal Tips](iOSTips.md)

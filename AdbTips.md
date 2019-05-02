@@ -58,3 +58,7 @@ adb -s _device_id_ shell dumpsys package _package_name_ |grep pkgFlags
 * adb shell pm list packages - get all packages
 * adb shell pm path _package_name_ - get apk path
 * adb pull _apk_path_ _destination_path_
+
+**Simulate deeplinks**
+
+adb shell am start -a android.intent.action.VIEW -d _deep_link_

@@ -7,3 +7,4 @@
 1. Converting Xamarin Libraries to SDK Style & Multi-Targeted Projects - <https://montemagno.com/converting-xamarin-libraries-to-sdk-style-multi-targeted-projects/>
 1. Xamarin.IOS common targets source - <https://github.com/xamarin/xamarin-macios/blob/master/msbuild/Xamarin.iOS.Tasks.Core/Xamarin.iOS.Common.targets>
 1. Binding Android jar tips - <https://gist.github.com/JonDouglas/dda6d8ace7d071b0e8cb>
+1. Mock API - <https://github.com/typicode/jsonplaceholder>

@@ -58,6 +58,7 @@ adb -s _device_id_ shell dumpsys package _package_name_ |grep pkgFlags
 * adb shell pm list packages - get all packages
 * adb shell pm path _package_name_ - get apk path
 * adb pull _apk_path_ _destination_path_
+* adb install-multiple /directory_name/*.apk _(Sometimes the apk (debug) is splitted in to small chunks of apk files. In that case pull all of the apk files in to a folder and then run this instead)_
 
 **Simulate deeplinks**
 

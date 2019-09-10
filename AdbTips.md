@@ -60,6 +60,12 @@ adb -s _device_id_ shell dumpsys package _package_name_ |grep pkgFlags
 * adb pull _apk_path_ _destination_path_
 * adb install-multiple /directory_name/*.apk _(Sometimes the apk (debug) is splitted in to small chunks of apk files. In that case pull all of the apk files in to a folder and then run this instead)_
 
+**Check certificate used to sign an apk**
+* pull apk from device (if needed)
+* unzip apk file using _unzip {filename}.apk_
+* navigate to META-INF directory
+* run _keytool -printcert -file APKSIGNE.RSA_
+
 **Simulate deeplinks**
 
 adb shell am start -a android.intent.action.VIEW -d _deep_link_

@@ -9,3 +9,4 @@
 1. Binding Android jar tips - <https://gist.github.com/JonDouglas/dda6d8ace7d071b0e8cb>
 1. Mock API - <https://github.com/typicode/jsonplaceholder>
 1. Input controls - <https://github.com/enisn/Xamarin.Forms.InputKit>
+1. Fix missing utility "lipo" issue using beta sdk - sudo xcode-select --switch /Applications/Xcode-beta.app/Contents/Developer/

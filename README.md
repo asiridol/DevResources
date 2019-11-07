@@ -29,6 +29,10 @@ Find the branch name from <https://docs.microsoft.com/en-gb/xamarin/ios/release-
 1. Xamarin.iOS artifacts - <https://jenkins.mono-project.com/view/Xamarin.MaciOS/>
 2. Xamarin.Android artifacts - <https://jenkins.mono-project.com/view/Xamarin.Android/>
 
+**Resolving provisioning profile issues**
+
+<https://gist.github.com/asiridol/ae2ff43b83cb6216878bef056ffad17e>
+
 **Misc Resources**
 1. [Android Resources](AndroidTuts.md)
 1. [iOS Resources](iOsTuts.md)

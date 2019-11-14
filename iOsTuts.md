@@ -6,3 +6,4 @@
 1. How do I detect that an iOS app is running on a jailbroken phone? - Stack Overflow <https://stackoverflow.com/a/26712383>
 1. Decrypting provisioning profiles - <http://maniak-dobrii.com/extracting-stuff-from-provisioning-profile/>
 1. Repacking ipa with re-signed assemblies - <https://stackoverflow.com/a/6921689>
+1. Decoding crash logs - <https://www.appundmensch.de/blog/2015/3/3/your-app-crashes-on-the-device-and-then>

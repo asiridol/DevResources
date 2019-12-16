@@ -23,6 +23,10 @@ Official repo - <https://github.com/Redth/XamarinStudio.RedthsAddin>
 
 2. [iOS terminal Tips](iOSTips.md)
 
+**Better Vysor for Android**
+
+[Genymobile Screen Mirror](https://github.com/Genymobile/scrcpy)
+
 **Downgrading Xamarin**
 
 Find the branch name from <https://docs.microsoft.com/en-gb/xamarin/ios/release-notes/>

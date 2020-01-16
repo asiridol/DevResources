@@ -15,3 +15,4 @@
 1. Android activity manager "am" command help · GitHub - <https://gist.github.com/tsohr/5711945>
 1. Determine if running on a rooted device - Stack Overflow <https://stackoverflow.com/a/37237473>
 1. Stream Provider - <https://github.com/commonsguy/cwac-provider/blob/master/provider/src/main/java/com/commonsware/cwac/provider/StreamProvider.java>
+1. Extract the backup - <https://github.com/nelenkov/android-backup-extractor>

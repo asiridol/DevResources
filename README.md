@@ -32,6 +32,7 @@ Official repo - <https://github.com/Redth/XamarinStudio.RedthsAddin>
 Find the branch name from <https://docs.microsoft.com/en-gb/xamarin/ios/release-notes/>
 1. Xamarin.iOS artifacts - <https://jenkins.mono-project.com/view/Xamarin.MaciOS/>
 2. Xamarin.Android artifacts - <https://jenkins.mono-project.com/view/Xamarin.Android/>
+3. Or use https://github.com/jonathanpeppers/boots
 
 **Resolving provisioning profile issues**
 

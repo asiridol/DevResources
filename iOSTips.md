@@ -42,3 +42,7 @@ System.Diagnostics.Debug.WriteLine("Doc : " + directories.FirstOrDefault());
 **Get simulator console from terminal**
 
 xcrun simctl spawn booted log stream --process {process_name} --level default
+
+More filtering
+
+xcrun simctl spawn booted log stream --predicate 'eventMessage contains "com.itkan.awesome"'

@@ -37,4 +37,8 @@ xcrun simctl io booted screenshot ./screen.png
 // usage
 var directories = NSSearchPath.GetDirectories(NSSearchPathDirectory.DocumentDirectory, NSSearchPathDomain.All);
 System.Diagnostics.Debug.WriteLine("Doc : " + directories.FirstOrDefault());
-             ```
+```
+
+**Get simulator console from terminal**
+
+xcrun simctl spawn booted log stream --process {process_name} --level default

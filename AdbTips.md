@@ -80,6 +80,8 @@ adb -s _device_id_ shell dumpsys package _package_name_ |grep pkgFlags
 
 adb shell am start -a android.intent.action.VIEW -d _deep_link_
 
+adb shell am start -a android.intent.action.VIEW -d "_deep_link_" _package_name_
+
 **Start logcat**
 
 adb shell logcat -b all -v color

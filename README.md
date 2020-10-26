@@ -5,7 +5,7 @@
 
 /Users/{user_name}/.local/share/Xamarin/Mono\ for\ Android/debug.keystore
 
-**Fix iOS compilation issues after xcode update
+**Fix iOS compilation issues after xcode update**
 
 sudo killall -9 com.apple.CoreSimulator.CoreSimulatorService
 

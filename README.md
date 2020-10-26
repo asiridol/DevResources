@@ -5,6 +5,10 @@
 
 /Users/{user_name}/.local/share/Xamarin/Mono\ for\ Android/debug.keystore
 
+**Fix iOS compilation issues after xcode update
+
+sudo killall -9 com.apple.CoreSimulator.CoreSimulatorService
+
 **Generate sha256**
 
 keytool -list -v -keystore /Users/{user_name}/.local/share/Xamarin/Mono\ for\ Android/debug.keystore -alias androiddebugkey -storepass android -keypass android

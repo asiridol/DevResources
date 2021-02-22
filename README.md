@@ -40,7 +40,7 @@ Find the branch name from <https://docs.microsoft.com/en-gb/xamarin/ios/release-
 
 **Xamarin target paths (Mac)**
 
-/Library/Frameworks/Xamarin.Android.framework (Xamarin.Android.Common.targets)
+/Library/Frameworks/Xamarin.Android.framework (Xamarin.Android.Common.targets) (https://docs.microsoft.com/en-us/xamarin/android/deploy-test/building-apps/build-properties)
 /Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/msbuild/iOS (Xamarin.iOS.Common.targets)visu
 
 **Resolving provisioning profile issues**

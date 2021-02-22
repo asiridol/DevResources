@@ -38,6 +38,11 @@ Find the branch name from <https://docs.microsoft.com/en-gb/xamarin/ios/release-
 2. Xamarin.Android artifacts - <https://jenkins.mono-project.com/view/Xamarin.Android/>
 3. Or use https://github.com/jonathanpeppers/boots
 
+**Xamarin target paths (Mac)**
+
+/Library/Frameworks/Xamarin.Android.framework (Xamarin.Android.Common.targets)
+/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/msbuild/iOS (Xamarin.iOS.Common.targets)visu
+
 **Resolving provisioning profile issues**
 
 <https://gist.github.com/asiridol/ae2ff43b83cb6216878bef056ffad17e>
